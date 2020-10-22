@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sharayu-yadav-4a698918b">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
 </a></br>
+<br>
+<br>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharayu134&layout=compact)](https://github.com/sharayu134/github-readme-stats)
