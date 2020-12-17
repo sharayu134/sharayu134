@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Spring Boot and Angular.
 - 💬 Ask me about : Java,Python,HTML,CSS,Bootstrap.
 - 😍 Hobby : I love painting🎨
-- 📫 How to reach me :
-<a href="https://www.linkedin.com/in/sharayu-yadav-4a698918b">
+- 📫 How to reach me :<a href="https://www.linkedin.com/in/sharayu-yadav-4a698918b">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
 </a>
 
