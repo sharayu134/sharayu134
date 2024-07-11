@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 ...-->
-- 🔭 I’m currently working on Instagram inspired Social Media Application. 
-- 🌱 I’m currently learning Spring Boot and Angular.
+- 🔭 I’m Sharayu. 
+- 🌱 I’m currently learning Go & Python.
 - 💬 Ask me about : Java,Python,HTML,CSS,Bootstrap.
 - 😍 Hobby : I love painting🎨
 - https://sharayu134.github.io/sharayu/
