@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 ...-->
-- 🔭 I’m Leetcoding. 
+- 🔭 I’m [Leetcoding](https://leetcode.com/submissions/#/1). 
 - 🌱 I’m currently learning Go & Python.
 - 💬 Ask me about : Java,Python,HTML,CSS,Bootstrap.
 - 😍 Hobby : I love painting🎨
